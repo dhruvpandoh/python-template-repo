@@ -126,11 +126,6 @@ If any check fails, fix issues before committing.
 📜 **Logging**
 - **All operations are also logged into** `operations.log`
 
-🤝 **Contributing**
-- Fork the repo.
-- Create a new branch: `git checkout -b feature-name`
-- Commit changes: `git commit -m "Add feature"`
-- Push and create a PR.
 
 # License
 This project is licensed under the MIT License. For more details, see the `LICENSE` file.
